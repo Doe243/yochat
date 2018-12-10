@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "533400364694",
+    "firebase_url": "https://yochat-89b0b.firebaseio.com",
+    "project_id": "yochat-89b0b",
+    "storage_bucket": "yochat-89b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533400364694:android:3b501473f45b2166",
+        "android_client_info": {
+          "package_name": "com.messenger.yo.yo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533400364694-fe19fc8de6jgg1figk2v1k2kiesaf68u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.messenger.yo.yo",
+            "certificate_hash": "f64999d5cd6af4b3e1fea17d502bcca502478aa1"
+          }
+        },
+        {
+          "client_id": "533400364694-emma6oflvsjqbki82j5hqrpd6cpusdq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVKL0XR1eKb9im-LUBDpJva6C3CmpgeZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533400364694-emma6oflvsjqbki82j5hqrpd6cpusdq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
